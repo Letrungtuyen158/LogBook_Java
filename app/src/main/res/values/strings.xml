@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Courework Java</string>
+    <string name="valuee_type">Please enter all information</string>
+    <string name="valuee_bedrooms">Please enter all information</string>
+    <string name="valuee_datetime">Please enter all information</string>
+    <string name="ivaluee_price">Please enter all information</string>
+    <string name="valuee_furniture">Please enter all information</string>
+    <string name="valuee_note">Please enter all information</string>
+    <string name="valuee_price">Please enter all information</string>
+    <string name="valuee_reporter">Please enter all information</string>
+</resources>
